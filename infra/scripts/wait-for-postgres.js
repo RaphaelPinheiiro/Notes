@@ -1,4 +1,3 @@
-const { match } = require("node:assert");
 const { exec } = require("node:child_process");
 
 const messageWaiting = "Waiting for Postgres";
